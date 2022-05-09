@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <br>
     -->
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanmoulaei&langs_count=10&hide=scss,less,hack"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanmoulaei&langs_count=10&hide=css,scss,less,hack"
     />
 </p>
 
