@@ -26,5 +26,5 @@ Here are some ideas to get you started:
   
 </div>
 <div align="center">
-  <a href="https://ko-fi.com/mahanmoulaei"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanmoulaei&langs_count=10&hide=css,scss,less,hack"/></a>
+  <a href="https://ko-fi.com/mahanmoulaei"><img src="https://readme-stats-indol-theta.vercel.app/api/top-langs/?username=mahanmoulaei&langs_count=10&hide=css,scss,less,hack"/></a>
 </div>
