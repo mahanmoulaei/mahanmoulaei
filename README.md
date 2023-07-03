@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <strong>Currently working on the <a href="https://github.com/esx-overextended">ESX-Overextended</a>, a highly versatile and extended version of ESX RPG Framework for FiveM platform.</strong><hr>
+  <strong>Currently working on <a href="https://github.com/esx-overextended">ESX-Overextended</a>, a highly versatile and extended version of ESX RPG Framework for FiveM platform.</strong><hr>
 </div>
 
 <div align="center">
