@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 [![Mahan Moulaei's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahanmoulaei&langs_count=10&hide=css,scss,less,hack)](https://github.com/mahanmoulaei/mahanmoulaei)
 -->
 
-
+<div align="center">
+  <strong>Currently working on the <a href="https://github.com/esx-overextended">ESX-Overextended</a>, a highly versatile and extended version of ESX RPG Framework for FiveM platform.</strong><hr>
+</div>
 
 <div align="center">
   <a href="https://ko-fi.com/mahanmoulaei"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahanmoulaei&show_icons=true&theme=radical&count_private=true&border_radius=20"/></a>
